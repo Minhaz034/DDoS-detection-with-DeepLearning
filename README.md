@@ -23,4 +23,7 @@ Code Description:
 12.	Perf_measure function is defined to calculate true positive,true negative,false positive and false negative values.(code cell 40)
 13.	Finally the trained model was used for making independent classifications on the training dataset.(code cell 50)
 14.	Performance of the model was graphically represented with confusion matrix and ROC curve (code cell 51,52 and 58)
-15.	A 1d Convolutional Neural Network is then designed and trained on the training dataset and performance tested on the test dataset as was done like the MLP model. Confusion matrix and ROC curve are plotted for the graphical representation of the CNN model’s performance as well. (Code cell 56)
+15.	A 1d Convolutional Neural Network is then designed and trained on the training dataset and performance tested on the test dataset as was done like the MLP model. Confusion matrix and ROC curve are plotted for the graphical representation of the CNN model’s performance as well. (Code cell 56)  
+Publication on this work: https://doi.org/10.1007/978-981-33-6835-4_8
+
+
